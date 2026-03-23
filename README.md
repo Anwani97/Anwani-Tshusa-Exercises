@@ -1,1 +1,1 @@
-# Anwani-Tshusa-Exercises
+# Exercises
